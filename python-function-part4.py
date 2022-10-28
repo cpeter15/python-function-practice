@@ -1,7 +1,4 @@
 
-from itertools import product
-from unittest import result
-
 
 def max_num(x, y, z):
     return max(x, y, z)
